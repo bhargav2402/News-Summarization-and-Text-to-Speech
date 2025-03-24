@@ -1,0 +1,13 @@
+feedparser
+newspaper3k
+transformers
+torch
+spacy
+gTTS
+
+fastapi
+uvicorn
+
+streamlit
+requests
+gtts
